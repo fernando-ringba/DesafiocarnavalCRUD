@@ -1,0 +1,11 @@
+C:\Projetos\DesafiocarnavalescoCRUD\DesafiocarnavalescoCRUD\bin\Debug\netcoreapp2.0\DesafiocarnavalescoCRUD.deps.json
+C:\Projetos\DesafiocarnavalescoCRUD\DesafiocarnavalescoCRUD\bin\Debug\netcoreapp2.0\DesafiocarnavalescoCRUD.runtimeconfig.json
+C:\Projetos\DesafiocarnavalescoCRUD\DesafiocarnavalescoCRUD\bin\Debug\netcoreapp2.0\DesafiocarnavalescoCRUD.runtimeconfig.dev.json
+C:\Projetos\DesafiocarnavalescoCRUD\DesafiocarnavalescoCRUD\bin\Debug\netcoreapp2.0\DesafiocarnavalescoCRUD.dll
+C:\Projetos\DesafiocarnavalescoCRUD\DesafiocarnavalescoCRUD\bin\Debug\netcoreapp2.0\DesafiocarnavalescoCRUD.pdb
+C:\Projetos\DesafiocarnavalescoCRUD\DesafiocarnavalescoCRUD\obj\Debug\netcoreapp2.0\DesafiocarnavalescoCRUD.csprojResolveAssemblyReference.cache
+C:\Projetos\DesafiocarnavalescoCRUD\DesafiocarnavalescoCRUD\obj\Debug\netcoreapp2.0\DesafiocarnavalescoCRUD.csproj.CoreCompileInputs.cache
+C:\Projetos\DesafiocarnavalescoCRUD\DesafiocarnavalescoCRUD\obj\Debug\netcoreapp2.0\DesafiocarnavalescoCRUD.AssemblyInfoInputs.cache
+C:\Projetos\DesafiocarnavalescoCRUD\DesafiocarnavalescoCRUD\obj\Debug\netcoreapp2.0\DesafiocarnavalescoCRUD.AssemblyInfo.cs
+C:\Projetos\DesafiocarnavalescoCRUD\DesafiocarnavalescoCRUD\obj\Debug\netcoreapp2.0\DesafiocarnavalescoCRUD.dll
+C:\Projetos\DesafiocarnavalescoCRUD\DesafiocarnavalescoCRUD\obj\Debug\netcoreapp2.0\DesafiocarnavalescoCRUD.pdb
